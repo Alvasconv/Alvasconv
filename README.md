@@ -2,14 +2,13 @@
 <br>
 <br>
 Bienvenido a mi repositorio personal. Aquí encontrarás una colección de mis proyectos, mis habilidades y mi experiencia en desarrollo. Si tienes alguna pregunta o deseas colaborar en alguno de mis proyectos, no dudes en contactarme.
-
-
+<br>
 
 ## 🛠️ Tecnologías
     - Java
     - MySql
 
-
+<br>
 
 ## 🧑‍💻 Mis Proyectos
 
@@ -32,10 +31,11 @@ A continuación se presentan algunos de los proyectos más destacados en los que
    - **Estado:** Terminado
    - **Tecnologías utilizadas:** Java
    - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Grupo-11)
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ---
-
+<br>
 Gracias por visitar mi repositorio. ¡No dudes en seguirme o dejar tus comentarios!
