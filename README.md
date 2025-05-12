@@ -25,7 +25,7 @@ A continuación se presentan algunos de los proyectos más destacados en los que
    - **Descripción:** Representación gráfica del funcionamiento del algoritmo de Floyd-Warshall usando grafos en aplicaciones de geolocalización (tipo Waza o Google Maps) para hallar el camino mas corto entre dos puntos.
    - **Estado:** Completo
    - **Tecnologías utilizadas:** Java
-   - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Proyecto-MatDiscretas/tree/main/Proyecto-MatDiscretas/src/main/java)
+   - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Proyecto-MatDiscretas/tree/main/Proyecto-MatDiscretas)
 <br>
 
 ### 3. **Proyecto 3: Grupo-11**
