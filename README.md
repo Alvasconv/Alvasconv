@@ -1,14 +1,16 @@
 # Angello Vasconez
+---
+
 
 Bienvenido a mi repositorio personal. Aquí encontrarás una colección de mis proyectos, mis habilidades y mi experiencia en desarrollo. Si tienes alguna pregunta o deseas colaborar en alguno de mis proyectos, no dudes en contactarme.
 
----
+
 
 ## 🛠️ Tecnologías
     - Java
     - MySql
 
----
+
 
 ## 🧑‍💻 Mis Proyectos
 
