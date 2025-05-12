@@ -1,7 +1,6 @@
 # Angello Vasconez
----
-
-
+<br>
+<br>
 Bienvenido a mi repositorio personal. Aquí encontrarás una colección de mis proyectos, mis habilidades y mi experiencia en desarrollo. Si tienes alguna pregunta o deseas colaborar en alguno de mis proyectos, no dudes en contactarme.
 
 
@@ -32,7 +31,9 @@ A continuación se presentan algunos de los proyectos más destacados en los que
    - **Descripción:** Interfaz gráfica de un catalogo de vehiculos
    - **Estado:** Terminado
    - **Tecnologías utilizadas:** Java
-    - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Grupo-11)
+   - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Grupo-11)
+
+
 
 
 ---
