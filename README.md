@@ -36,6 +36,7 @@ A continuación se presentan algunos de los proyectos más destacados en los que
 <br>
 <br>
 <br>
+
 ---
-<br>
+
 Gracias por visitar mi repositorio. ¡No dudes en seguirme o dejar tus comentarios!
