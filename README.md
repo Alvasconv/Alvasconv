@@ -18,13 +18,13 @@ A continuación se presentan algunos de los proyectos más destacados en los que
    - **Descripción:** Proyecto de practica de crear un sistema de reservas de alojamientos sin interfaz grafica.
    - **Estado:** Completo
    - **Tecnologías utilizadas:** Java, MySQL
-   - **Enlace al repositorio:** (https://github.com/Alvasconv/Proyecto-Airbnb)    
+   - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Proyecto-Airbnb)    
 
 ### 2. **Proyecto 2: Proyecto-MatDiscretas**
    - **Descripción:** Representación gráfica del funcionamiento del algoritmo de Floyd-Warshall usando grafos en aplicaciones de geolocalización (tipo Waza o Google Maps) para hallar el camino mas corto entre dos puntos.
    - **Estado:** Completo
    - **Tecnologías utilizadas:** Java
-   - **Enlace al repositorio:** (https://github.com/Alvasconv/Proyecto-MatDiscretas/tree/main/Proyecto-MatDiscretas/src/main/java)
+   - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Proyecto-MatDiscretas/tree/main/Proyecto-MatDiscretas/src/main/java)
 
 ### 3. **Proyecto 3: My Spotify App**
    - **Descripción:** Reproductor de musica para android conectado a la API de Spotify
