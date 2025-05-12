@@ -1,4 +1,4 @@
-# Mi Repositorio Personal
+# Angello Vasconez
 
 Bienvenido a mi repositorio personal. Aquí encontrarás una colección de mis proyectos, mis habilidades y mi experiencia en desarrollo. Si tienes alguna pregunta o deseas colaborar en alguno de mis proyectos, no dudes en contactarme.
 
@@ -8,7 +8,7 @@ Bienvenido a mi repositorio personal. Aquí encontrarás una colección de mis p
     - Java
     - MySql
 
-
+---
 
 ## 🧑‍💻 Mis Proyectos
 
@@ -26,10 +26,11 @@ A continuación se presentan algunos de los proyectos más destacados en los que
    - **Tecnologías utilizadas:** Java
    - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Proyecto-MatDiscretas/tree/main/Proyecto-MatDiscretas/src/main/java)
 
-### 3. **Proyecto 3: My Spotify App**
-   - **Descripción:** Reproductor de musica para android conectado a la API de Spotify
-   - **Estado:** En desarrollo (Recién empezado)
-   - **Tecnologías utilizadas:** Kotlin
+### 3. **Proyecto 3: Grupo-11**
+   - **Descripción:** Interfaz gráfica de un catalogo de vehiculos
+   - **Estado:** Terminado
+   - **Tecnologías utilizadas:** Java
+    - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Grupo-11)
 
 
 ---
