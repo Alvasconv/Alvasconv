@@ -5,8 +5,8 @@ Bienvenido a mi repositorio personal. Aquí encontrarás una colección de mis p
 <br>
 
 ## 🛠️ Tecnologías
-    - Java
-    - MySql
+    - Java/Java FX (Elaboración de apps de escritorio con interfaces gráfica)
+    - MySql (Construcción de la arquitectura de bases de datos, normalización de tablas relacionales y condicionamientos para mayor robustez)
 
 <br>
 
@@ -15,23 +15,23 @@ Bienvenido a mi repositorio personal. Aquí encontrarás una colección de mis p
 A continuación se presentan algunos de los proyectos más destacados en los que he trabajado:
 
 ### 1. **Proyecto 1: Proyecto-Airbnb**
-   - **Descripción:** Proyecto de practica de crear un sistema de reservas de alojamientos sin interfaz grafica.
-   - **Estado:** Completo
+   - **Descripción:** Sistema de reservas de alojamientos sin interfaz gráfica con un comportamiento similar a Airbnb.
+   - **Estado:** Terminado
    - **Tecnologías utilizadas:** Java, MySQL
    - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Proyecto-Airbnb)    
 <br>
 
 ### 2. **Proyecto 2: Proyecto-MatDiscretas**
-   - **Descripción:** Representación gráfica del funcionamiento del algoritmo de Floyd-Warshall usando grafos en aplicaciones de geolocalización (tipo Waza o Google Maps) para hallar el camino mas corto entre dos puntos.
-   - **Estado:** Completo
-   - **Tecnologías utilizadas:** Java
+   - **Descripción:** Representación gráfica del funcionamiento del algoritmo de Floyd-Warshall usando grafos en aplicaciones de geolocalización (tipo Waze o Google Maps) para hallar el camino mas corto entre dos puntos.
+   - **Estado:** Terminado
+   - **Tecnologías utilizadas:** Java FX
    - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Proyecto-MatDiscretas/tree/main/Proyecto-MatDiscretas)
 <br>
 
 ### 3. **Proyecto 3: Grupo-11**
-   - **Descripción:** Interfaz gráfica de un catalogo de vehiculos
+   - **Descripción:** Interfaz gráfica de un catalogo de vehículos.
    - **Estado:** Terminado
-   - **Tecnologías utilizadas:** Java
+   - **Tecnologías utilizadas:** Java FX
    - **Enlace al repositorio:** [ver repositorio](https://github.com/Alvasconv/Grupo-11)
 <br>
 <br>
